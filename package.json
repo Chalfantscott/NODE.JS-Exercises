@@ -1,0 +1,23 @@
+{
+  "name": "exercises1-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "readline": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chalfantscott/NODE.JS-Exercises.git"
+  },
+  "author": "Scott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chalfantscott/NODE.JS-Exercises/issues"
+  },
+  "homepage": "https://github.com/Chalfantscott/NODE.JS-Exercises#readme"
+}

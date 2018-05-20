@@ -1,5 +1,6 @@
 const fs = require('fs');
 const readline = require('readline');
+const dns = require('dns');
 
 const rl = readline.createInterface({
     input: process.stdin,
